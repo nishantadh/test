@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
     public class login_system {
         public static void main(String[] args) {
-            Scanner scanner = new Scanner(System.in); 
+            Scanner scanner = new Scanner(System.in);
             Random random = new Random(); //
             String username = "nishant";
             String password = "nishant123";
